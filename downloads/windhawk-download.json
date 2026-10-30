@@ -1,0 +1,13 @@
+{
+  "downloadedOn": "2026-10-27",
+  "version": "v1.7.3",
+  "releaseUrl": "https://github.com/ramensoftware/windhawk/releases/tag/v1.7.3",
+  "downloadUrl": "https://github.com/ramensoftware/windhawk/releases/download/v1.7.3/windhawk_setup.exe",
+  "filename": "windhawk_setup_v1.7.3.exe",
+  "bytes": 11570480,
+  "sha256": "5116CC1703384AAC88B8D7A3B57F172AEA5DA32B6DF7355FB2F8247D23813C8F",
+  "githubDigest": "sha256:5116cc1703384aac88b8d7a3b57f172aea5da32b6df7355fb2f8247d23813c8f",
+  "signatureStatus": "Valid",
+  "signer": "CN=\"Open Source Developer, Michael Maltsev\", O=Open Source Developer, L=Tel Aviv, C=IL",
+  "executed": false
+}

@@ -1,0 +1,11 @@
+{
+  "downloadedOn": "2026-10-27",
+  "repository": "https://github.com/ramensoftware/windhawk-mods",
+  "commit": "a1190b6c1b631a725f6d628189886d410b3760f6",
+  "commitDate": "2026-09-22T16:22:32Z",
+  "sourceUrl": "https://raw.githubusercontent.com/ramensoftware/windhawk-mods/a1190b6c1b631a725f6d628189886d410b3760f6/mods/system-tray-folders.wh.cpp",
+  "sha256": "F0A5CEDD68E4351699FB179CC1C911C84CABF16EBC0103B3879BCEAEB2818E73",
+  "bytes": 66659,
+  "license": "See upstream @license header in source",
+  "purpose": "Read-only reference snapshot, not loaded or installed"
+}

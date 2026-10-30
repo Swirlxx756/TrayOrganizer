@@ -1,0 +1,7 @@
+dist/
+obj/
+bin/
+*.exe
+*.zip
+# runtime mirror of %LOCALAPPDATA%\TrayOrganizer (config, hidden state, log)
+data/
